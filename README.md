@@ -245,12 +245,4 @@ a.	Answer: because the RDP (protocol) is constantly showing you a live stream fr
 
 21.	Verify Resource Group Deletion
 
-
-
-
-
-
-
-![Complete-Stamp-1024x356](https://github.com/techwithterrence/azure-network-protocols/assets/174138674/50b8f661-2f15-415f-abdf-896cbc32dd4d)
-
-
+This Completes the Tutorial for Azure Network and Protocols 
